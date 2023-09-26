@@ -18,6 +18,7 @@ typedef struct {
     int p2;
     Objet* objets;
     int size;
+    int valeur;
 } Sac;
 
 void euristic(void);

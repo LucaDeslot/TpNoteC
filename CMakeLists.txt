@@ -6,4 +6,5 @@ set(CMAKE_C_STANDARD 11)
 add_executable(TpNoteC main.c
         Euristic.c
         exact-method.c
-        main.h)
+        main.h
+        exact-method.h)
